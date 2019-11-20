@@ -1,0 +1,5 @@
+chrX1	chrX1	chrX1_nonPAR	44792639	125040914	-
+chrX1	chrX1	chrX1_PAR-L	1	44792438	-
+chrX1	chrY1	chrY1_PAR-L	1	44792438	+
+chrY1	chrY1	chrY1_nonPAR	1	1234000	+
+chrY1	chrY1	chrY1_PAR-R	1	5740000	-

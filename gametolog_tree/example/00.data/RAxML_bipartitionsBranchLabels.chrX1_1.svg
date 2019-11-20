@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="210" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect fill="#FFFFFF" height="210" width="600" x="0" y="0" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="387" y="35.4">ENSOANP00000015701-D1-D2
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="387" y="65.4">ENSOANP00000015701-D2
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="387" y="95.4">platypus_gene_2131
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="387" y="125.4">platypus_gene_3495
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="387" y="155.4">Hsap
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="30" x2="60" y1="113" y2="113" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="273" y1="30" y2="30" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="273" y1="60" y2="60" />
+	<line stroke="#000000" stroke-width="1" x1="273" x2="167" y1="45" y2="45" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="273" y1="90" y2="90" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="273" y1="120" y2="120" />
+	<line stroke="#000000" stroke-width="1" x1="273" x2="167" y1="105" y2="105" />
+	<line stroke="#000000" stroke-width="1" x1="167" x2="60" y1="75" y2="75" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="60" y1="150" y2="150" />
+	<line stroke="#000000" stroke-width="1" x1="273" x2="273" y1="30" y2="60" />
+	<line stroke="#000000" stroke-width="1" x1="273" x2="273" y1="90" y2="120" />
+	<line stroke="#000000" stroke-width="1" x1="167" x2="167" y1="45" y2="105" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="75" y2="150" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="380" y1="180" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="12" x="60" y="170">Divergence, substitutions/site
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="72.8" x2="72.8" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="85.6" x2="85.6" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="98.4" x2="98.4" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="111.2" x2="111.2" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="124" x2="124" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="136.8" x2="136.8" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="149.6" x2="149.6" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="162.4" x2="162.4" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="175.2" x2="175.2" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="188" x2="188" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="200.8" x2="200.8" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="213.6" x2="213.6" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="226.4" x2="226.4" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="239.2" x2="239.2" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="252" x2="252" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="264.8" x2="264.8" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="277.6" x2="277.6" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="290.4" x2="290.4" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="303.2" x2="303.2" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="316" x2="316" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="328.8" x2="328.8" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="341.6" x2="341.6" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="354.4" x2="354.4" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="367.2" x2="367.2" y1="177" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="174" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="56.58" y="194.8">0
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="124" x2="124" y1="174" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="115.45" y="194.8">0.6
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="188" x2="188" y1="174" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="179.45" y="194.8">1.2
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="252" x2="252" y1="174" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="243.45" y="194.8">1.8
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="316" x2="316" y1="174" y2="180" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="307.45" y="194.8">2.4
+	</text>
+	<text fill="#5050D0" font-family="ArialNarrow" font-size="12" x="213.028" y="38.64">62
+	</text>
+	<text fill="#5050D0" font-family="ArialNarrow" font-size="12" x="213.028" y="98.64">41
+	</text><!-- 
+	Generated using the Perl SVG Module V2.33
+	by Ronan Oger
+	Info: http://www.roasp.com/
+ -->
+</svg>

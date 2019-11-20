@@ -1,0 +1,12 @@
+HUMAN#chr2	protein_coding	mRNA	206176183	206177247	.	-	.	ID=GPR1;
+MOUSE#chr1	protein_coding	mRNA	63183016	63184074	.	-	.	ID=GPR1;
+OPOSSUM#chr7	protein_coding	mRNA	189300428	189301489	.	+	.	ID=GPR1;
+PACBIO_PLATYPUS#Contig34	protein_coding	mRNA	10393292	10394353	.	+	.	ID=GPR1;
+v08_platypus#Ultra718	protein_coding	mRNA	2365	3426	.	-	.	ID=GPR1;
+tacu#scaffold1448	protein_coding	mRNA	17450	18511	.	-	.	ID=GPR1;
+CHICKEN#chr7	protein_coding	mRNA	12620671	12621738	.	+	.	ID=GPR1;
+ANOLE#GL343208.1	protein_coding	mRNA	626398	627432	.	+	.	ID=GPR1;
+HUMAN#chr2	protein_coding	mRNA	206304715	206311590	.	+	.	ID=ZDBF2;
+MOUSE#chr1	protein_coding	mRNA	63294916	63309942	.	+	.	ID=ZDBF2;
+HUMAN#chr4	protein_coding	mRNA	88697209	88697754	.	-	.	ID=NAP1L5;
+MOUSE#chr6	protein_coding	mRNA	58906500	58906967	.	-	.	ID=NAP1L5;

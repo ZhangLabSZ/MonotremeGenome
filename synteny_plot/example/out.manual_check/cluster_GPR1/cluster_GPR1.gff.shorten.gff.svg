@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="900" height="820" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<text x="40" y="25" font-family="Arial" font-size="12" fill="black">HUMAN#chr2</text>
+<line x1="40" y1="50" x2="135" y2="50" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="41.3896480484709" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.7455 50 v -3 h-0.5964 v-3 l -0.1491 6 M50.7455 50 v 3 h-0.5964 v 3 l -0.1491 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="40" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<path d="M120.7462 50 v -3 h3.85056 v-3 l 0.96264 6 M120.7462 50 v 3 h3.85056 v 3 l 0.96264 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="81.2462" y1="54" x2="85.2462" y2="46" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="85.2462" y1="54" x2="89.2462" y2="46" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="120" y="80" font-family="Arial" font-size="8" fill="black">ZDBF2</text>
+<text x="40" y="105" font-family="Arial" font-size="12" fill="black">HUMAN#chr4</text>
+<line x1="40" y1="130" x2="60" y2="130" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.3822 130 v -3 h-0.30576 v-3 l -0.07644 6 M50.3822 130 v 3 h-0.30576 v 3 l -0.07644 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="120" font-family="Arial" font-size="8" fill="black">NAP1L5</text>
+<text x="40" y="185" font-family="Arial" font-size="12" fill="black">MOUSE#chr1</text>
+<line x1="40" y1="210" x2="141" y2="210" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="41.3955171166204" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.7413 210 v -3 h-0.59304 v-3 l -0.14826 6 M50.7413 210 v 3 h-0.59304 v 3 l -0.14826 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="200" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<path d="M120.742 210 v -3 h8.41512 v-3 l 2.10378 6 M120.742 210 v 3 h8.41512 v 3 l 2.10378 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="81.242" y1="214" x2="85.242" y2="206" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="85.242" y1="214" x2="89.242" y2="206" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="120" y="240" font-family="Arial" font-size="8" fill="black">ZDBF2</text>
+<text x="40" y="265" font-family="Arial" font-size="12" fill="black">MOUSE#chr6</text>
+<line x1="40" y1="290" x2="60" y2="290" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.3276 290 v -3 h-0.26208 v-3 l -0.06552 6 M50.3276 290 v 3 h-0.26208 v 3 l -0.06552 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="280" font-family="Arial" font-size="8" fill="black">NAP1L5</text>
+<text x="40" y="345" font-family="Arial" font-size="12" fill="black">OPOSSUM#chr7</text>
+<line x1="40" y1="370" x2="60" y2="370" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 370 v -3 h0.59472 v-3 l 0.14868 6 M50.0007 370 v 3 h0.59472 v 3 l 0.14868 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="360" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<text x="40" y="425" font-family="Arial" font-size="12" fill="black">PACBIO_PLATYPUS#Contig34</text>
+<line x1="40" y1="450" x2="60" y2="450" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 450 v -3 h0.59472 v-3 l 0.14868 6 M50.0007 450 v 3 h0.59472 v 3 l 0.14868 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="440" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<text x="40" y="505" font-family="Arial" font-size="12" fill="black">v08_platypus#Ultra718</text>
+<line x1="40" y1="530" x2="60" y2="530" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.7434 530 v -3 h-0.59472 v-3 l -0.14868 6 M50.7434 530 v 3 h-0.59472 v 3 l -0.14868 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="520" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<text x="40" y="585" font-family="Arial" font-size="12" fill="black">tacu#scaffold1448</text>
+<line x1="40" y1="610" x2="60" y2="610" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.7434 610 v -3 h-0.59472 v-3 l -0.14868 6 M50.7434 610 v 3 h-0.59472 v 3 l -0.14868 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="600" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<text x="40" y="665" font-family="Arial" font-size="12" fill="black">CHICKEN#chr7</text>
+<line x1="40" y1="690" x2="60" y2="690" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 690 v -3 h0.59808 v-3 l 0.14952 6 M50.0007 690 v 3 h0.59808 v 3 l 0.14952 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="680" font-family="Arial" font-size="8" fill="black">GPR1</text>
+<text x="40" y="745" font-family="Arial" font-size="12" fill="black">ANOLE#GL343208.1</text>
+<line x1="40" y1="770" x2="60" y2="770" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="815" x2="40" y2="815" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="812" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 770 v -3 h0.5796 v-3 l 0.1449 6 M50.0007 770 v 3 h0.5796 v 3 l 0.1449 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="760" font-family="Arial" font-size="8" fill="black">GPR1</text>
+</svg>

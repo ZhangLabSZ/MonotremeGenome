@@ -1,0 +1,164 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="900" height="2020" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<text x="40" y="25" font-family="Arial" font-size="12" fill="black">HUMAN#chr1</text>
+<line x1="40" y1="50" x2="165" y2="50" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.387072484445" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 50 v -3 h28.39816 v-3 l 7.09954 6 M50.0007 50 v 3 h28.39816 v 3 l 7.09954 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="40" font-family="Arial" font-size="8" fill="black">TP73</text>
+<path d="M155.9786 50 v -3 h-0.38472 v-3 l -0.09618 6 M155.9786 50 v 3 h-0.38472 v 3 l -0.09618 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="115.9984" y1="54" x2="119.9984" y2="46" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="119.9984" y1="54" x2="123.9984" y2="46" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="155" y="80" font-family="Arial" font-size="8" fill="black">DIRAS3</text>
+<text x="40" y="105" font-family="Arial" font-size="12" fill="black">HUMAN#chr2</text>
+<line x1="40" y1="130" x2="286" y2="130" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3944032601889" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 130 v -3 h53.3736 v-3 l 13.3434 6 M50.0007 130 v 3 h53.3736 v 3 l 13.3434 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="120" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<path d="M187.8132 130 v -3 h-0.87696 v-3 l -0.21924 6 M187.8132 130 v 3 h-0.87696 v 3 l -0.21924 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="147.2177" y1="134" x2="151.2177" y2="126" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="151.2177" y1="134" x2="155.2177" y2="126" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="186" y="160" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<path d="M257.8139 130 v -3 h15.27512 v-3 l 3.81878 6 M257.8139 130 v 3 h15.27512 v 3 l 3.81878 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="218.3139" y1="134" x2="222.3139" y2="126" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="222.3139" y1="134" x2="226.3139" y2="126" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="257" y="120" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="185" font-family="Arial" font-size="12" fill="black">HUMAN#chr5</text>
+<line x1="40" y1="210" x2="61" y2="210" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3917884481559" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 210 v -3 h0.80472 v-3 l 0.20118 6 M50.0007 210 v 3 h0.80472 v 3 l 0.20118 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="200" font-family="Arial" font-size="8" fill="black">ZRSR1</text>
+<text x="40" y="265" font-family="Arial" font-size="12" fill="black">MOUSE#chr1</text>
+<line x1="40" y1="290" x2="80" y2="290" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3400783945861" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 290 v -3 h16.71544 v-3 l 4.17886 6 M50.0007 290 v 3 h16.71544 v 3 l 4.17886 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="280" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="345" font-family="Arial" font-size="12" fill="black">MOUSE#chr11</text>
+<line x1="40" y1="370" x2="78" y2="370" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3924344395451" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M68.0978 370 v -3 h-14.47824 v-3 l -3.61956 6 M68.0978 370 v 3 h-14.47824 v 3 l -3.61956 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="360" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<path d="M61.7768 370 v -3 h0.71904 v-3 l 0.17976 6 M61.7768 370 v 3 h0.71904 v 3 l 0.17976 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="61" y="400" font-family="Arial" font-size="8" fill="black">ZRSR1</text>
+<text x="40" y="425" font-family="Arial" font-size="12" fill="black">MOUSE#chr4</text>
+<line x1="40" y1="450" x2="92" y2="450" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3942747592697" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M82.1314 450 v -3 h-25.70512 v-3 l -6.42628 6 M82.1314 450 v 3 h-25.70512 v 3 l -6.42628 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="440" font-family="Arial" font-size="8" fill="black">TP73</text>
+<text x="40" y="505" font-family="Arial" font-size="12" fill="black">MOUSE#chr6</text>
+<line x1="40" y1="530" x2="61" y2="530" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2771392081737" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 530 v -3 h0.87696 v-3 l 0.21924 6 M50.0007 530 v 3 h0.87696 v 3 l 0.21924 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="520" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="585" font-family="Arial" font-size="12" fill="black">OPOSSUM#chr1</text>
+<line x1="40" y1="610" x2="306" y2="610" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3977233019224" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M225.2982 610 v -3 h-140.23856 v-3 l -35.05964 6 M225.2982 610 v 3 h-140.23856 v 3 l -35.05964 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="600" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<path d="M295.2989 610 v -3 h0.882 v-3 l 0.2205 6 M295.2989 610 v 3 h0.882 v 3 l 0.2205 -6 " fill="red" stroke="black" fill-opacity="1" />
+<line x1="255.7989" y1="614" x2="259.7989" y2="606" style="stroke:rgb(99,99,99);stroke-width:1"/><line x1="259.7989" y1="614" x2="263.7989" y2="606" style="stroke:rgb(99,99,99);stroke-width:1"/><text x="295" y="640" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="665" font-family="Arial" font-size="12" fill="black">OPOSSUM#chr4</text>
+<line x1="40" y1="690" x2="120" y2="690" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3775685914361" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 690 v -3 h48.7816 v-3 l 12.1954 6 M50.0007 690 v 3 h48.7816 v 3 l 12.1954 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="680" font-family="Arial" font-size="8" fill="black">TP73</text>
+<text x="40" y="745" font-family="Arial" font-size="12" fill="black">OPOSSUM#chr7</text>
+<line x1="40" y1="770" x2="71" y2="770" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3153174698075" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M61.7082 770 v -3 h-9.36656 v-3 l -2.34164 6 M61.7082 770 v 3 h-9.36656 v 3 l -2.34164 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="760" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="825" font-family="Arial" font-size="12" fill="black">PACBIO_PLATYPUS#Contig11</text>
+<line x1="40" y1="850" x2="61" y2="850" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2795905310301" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M51.0941 850 v -3 h-0.87528 v-3 l -0.21882 6 M51.0941 850 v 3 h-0.87528 v 3 l -0.21882 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="840" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="905" font-family="Arial" font-size="12" fill="black">PACBIO_PLATYPUS#Contig23</text>
+<line x1="40" y1="930" x2="159" y2="930" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3982063413601" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M149.127 930 v -3 h-79.3016 v-3 l -19.8254 6 M149.127 930 v 3 h-79.3016 v 3 l -19.8254 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="920" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<text x="40" y="985" font-family="Arial" font-size="12" fill="black">PACBIO_PLATYPUS#Contig38</text>
+<line x1="40" y1="1010" x2="63" y2="1010" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.1520737327189" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M53.6456 1010 v -3 h-2.91648 v-3 l -0.72912 6 M53.6456 1010 v 3 h-2.91648 v 3 l -0.72912 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1000" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="1065" font-family="Arial" font-size="12" fill="black">v08_platypus#Contig8748</text>
+<line x1="40" y1="1090" x2="61" y2="1090" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2795905310301" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M51.0941 1090 v -3 h-0.87528 v-3 l -0.21882 6 M51.0941 1090 v 3 h-0.87528 v 3 l -0.21882 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1080" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="1145" font-family="Arial" font-size="12" fill="black">v08_platypus#Ultra178</text>
+<line x1="40" y1="1170" x2="73" y2="1170" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3519134775374" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1170 v -3 h10.76992 v-3 l 2.69248 6 M50.0007 1170 v 3 h10.76992 v 3 l 2.69248 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1160" font-family="Arial" font-size="8" fill="black">TP73</text>
+<text x="40" y="1225" font-family="Arial" font-size="12" fill="black">v08_platypus#Ultra56</text>
+<line x1="40" y1="1250" x2="162" y2="1250" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3941854266617" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1250 v -3 h81.94032 v-3 l 20.48508 6 M50.0007 1250 v 3 h81.94032 v 3 l 20.48508 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1240" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<text x="40" y="1305" font-family="Arial" font-size="12" fill="black">tacu#scaffold338</text>
+<line x1="40" y1="1330" x2="61" y2="1330" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2795905310301" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M51.0941 1330 v -3 h-0.87528 v-3 l -0.21882 6 M51.0941 1330 v 3 h-0.87528 v 3 l -0.21882 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1320" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="1385" font-family="Arial" font-size="12" fill="black">CHICKEN#chr1</text>
+<line x1="40" y1="1410" x2="68" y2="1410" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3303400681799" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M58.4189 1410 v -3 h-6.73512 v-3 l -1.68378 6 M58.4189 1410 v 3 h-6.73512 v 3 l -1.68378 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1400" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="1465" font-family="Arial" font-size="12" fill="black">CHICKEN#chr21</text>
+<line x1="40" y1="1490" x2="79" y2="1490" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3426138571883" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M69.8121 1490 v -3 h-15.84968 v-3 l -3.96242 6 M69.8121 1490 v 3 h-15.84968 v 3 l -3.96242 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1480" font-family="Arial" font-size="8" fill="black">TP73</text>
+<text x="40" y="1545" font-family="Arial" font-size="12" fill="black">CHICKEN#chr3</text>
+<line x1="40" y1="1570" x2="73" y2="1570" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3848940023437" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1570 v -3 h10.51344 v-3 l 2.62836 6 M50.0007 1570 v 3 h10.51344 v 3 l 2.62836 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1560" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<text x="40" y="1625" font-family="Arial" font-size="12" fill="black">CHICKEN#chr4</text>
+<line x1="40" y1="1650" x2="61" y2="1650" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2795905310301" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1650 v -3 h0.87528 v-3 l 0.21882 6 M50.0007 1650 v 3 h0.87528 v 3 l 0.21882 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1640" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+<text x="40" y="1705" font-family="Arial" font-size="12" fill="black">ANOLE#GL344123.1</text>
+<line x1="40" y1="1730" x2="83" y2="1730" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.3678670195367" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M73.5403 1730 v -3 h-18.83224 v-3 l -4.70806 6 M73.5403 1730 v 3 h-18.83224 v 3 l -4.70806 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1720" font-family="Arial" font-size="8" fill="black">TP73</text>
+<text x="40" y="1785" font-family="Arial" font-size="12" fill="black">ANOLE#chr1</text>
+<line x1="40" y1="1810" x2="73" y2="1810" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.358624653812" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M63.3959 1810 v -3 h-10.71672 v-3 l -2.67918 6 M63.3959 1810 v 3 h-10.71672 v 3 l -2.67918 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1800" font-family="Arial" font-size="8" fill="black">COMMD1</text>
+<text x="40" y="1865" font-family="Arial" font-size="12" fill="black">ANOLE#chr3</text>
+<line x1="40" y1="1890" x2="62" y2="1890" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.0709504685408" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1890 v -3 h2.0916 v-3 l 0.5229 6 M50.0007 1890 v 3 h2.0916 v 3 l 0.5229 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1880" font-family="Arial" font-size="8" fill="black">CNGA3</text>
+<text x="40" y="1945" font-family="Arial" font-size="12" fill="black">ANOLE#chr5</text>
+<line x1="40" y1="1970" x2="61" y2="1970" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<line x1="40" y1="2015" x2="41.2771392081737" y2="2015" style="stroke:rgb(99,99,99);stroke-width:1"/>
+<text x="40" y="2012" font-family="Arial" font-size="8" fill="black">2000</text>
+<path d="M50.0007 1970 v -3 h0.87696 v-3 l 0.21924 6 M50.0007 1970 v 3 h0.87696 v 3 l 0.21924 -6 " fill="red" stroke="black" fill-opacity="1" />
+<text x="50" y="1960" font-family="Arial" font-size="8" fill="black">LRRTM1</text>
+</svg>

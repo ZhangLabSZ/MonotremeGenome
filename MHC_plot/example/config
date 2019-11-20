@@ -1,0 +1,26 @@
+[range]
+#row	scaf	start	end
+1	Hsapchr6	0	88100
+2	Mmuschr17	0	92300
+3	Mdomchr2	0	70100
+4	OanachrX5_1	0	37700
+4	OanaContig1541	0	5900
+4	OanachrX3_1	0	11900
+
+[gene]
+#row	ID
+1	Hsapchr6	+
+2	Mmuschr17	-
+3	Mdomchr2	+
+4	OanaContig1541	-
+4	OanachrX3_1	-
+4	OanachrX5_1	+
+
+[aln]
+#row1	row2	scaf1	scaf2	orient1	orient2
+1	2	Hsapchr6	Mmuschr17	+	-
+2	3	Mmuschr17	Mdomchr2	-	+
+3	4	Mdomchr2	OanaContig1541	+	-
+3	4	Mdomchr2	OanachrX3_1	+	-
+3	4	Mdomchr2	OanachrX5_1	+	+
+
